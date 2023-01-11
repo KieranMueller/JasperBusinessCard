@@ -30,7 +30,9 @@ function Main() {
                 <p>I play hockey often. Nothing beats getting on the rink with the guys. On my free time you can find me brushing up my coding skills and learning new languages. I try to challenge myself every day.</p>
             </div>
         </div>
-        <div className="foot"></div>
+        <div className="foot">
+            <p>-Created with only React, for practice-</p>
+        </div>
     </div>
     )
 }
